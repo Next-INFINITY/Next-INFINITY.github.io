@@ -1,1 +1,1 @@
-var posts=["2023/09/17/SEE YOU NEXT GAME/","2023/08/01/the next-INFINITE/","2024/03/16/The NEXT STEP/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2023/09/17/SEE YOU NEXT GAME/","2024/03/13/The NEXT STEP/","2021/08/07/the next-INFINITE/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
